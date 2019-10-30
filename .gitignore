@@ -3,6 +3,7 @@
 .vscode/
 .vs/
 build/
+dist/
 node_modules/
 npm-debug.log
 Thumbs.db
